@@ -2,23 +2,26 @@
 
 ---
 
-## Desarrollado por:
+## 👨‍💻 Desarrollado por
 
-## JHON ALEX CENTENO CCORIMANYA
-
-## OLIVER FRANK CHOQUE CHURA
-
-## CLEVER EDISON PAREDES VELASQUEZ
-
-## JORGE GUILLERMO OLARTE QUISPE
-
-## JACK BENJAMIN CANCAPA PACCO
+- Jhon Alex Centeno Ccorimanya
+- Oliver Frank Choque Chura
+- Clever Edison Paredes Velasquez
+- Jorge Guillermo Olarte Quispe
+- Jack Benjamin Cancapa Pacco
 
 ---
 
-## Universidad Nacional del Altiplano – Ingeniería de Sistemas
+## Universidad Nacional del Altiplano
 
-## Machine Learning Actividad CRISP-DM (16/09/25)
+**Escuela Profesional de Ingeniería de Sistemas**
+
+---
+
+## 📚 Curso: Machine Learning
+
+**Actividad 3 – Metodología CRISP-DM**  
+Fecha: 16/09/2025
 
 --
 
